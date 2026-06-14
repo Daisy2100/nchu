@@ -8,10 +8,15 @@
 
 | 課程 | 連結 | 摘要 |
 |------|------|------|
-| 資料結構 | [nchu-11402-DataStructure](https://github.com/Daisy2100/nchu-11402-DataStructure) | *(儲存庫尚未有內容)* |
+| 高等人工智慧 | [nchu-11402-AdvancedAI](https://github.com/Daisy2100/nchu-11402-AdvancedAI) | 台灣空氣品質資料集之 PM2.5 時間序列預測期末報告，使用隨機森林與線性回歸模型，包含特徵工程與結果分析的 Jupyter Notebook。 |
+| 計算機網路 | [nchu-11402-ComputerNetwork](https://github.com/Daisy2100/nchu-11402-ComputerNetwork) | 計算機網路課程資料，包含課程大綱、第一至第五章簡報與期中考歷屆考題整理。 |
+| 資料結構 | [nchu-11402-DataStructure](https://github.com/Daisy2100/nchu-11402-DataStructure) | 資料結構課程資料，包含各章節講義、課後作業與歷年考試考古題整理。 |
 | 深度強化學習 hw-01 | [nchu-11402-DeepRL-hw-01](https://github.com/Daisy2100/nchu-11402-DeepRL-hw-01) | 以「透光檔案室」為主題設計的個人靜態網頁，具玻璃擬態風格與即時時鐘，自動部署至 GitHub Pages。 |
 | 深度強化學習 hw-02 | [nchu-11402-DeepRL-hw-02](https://github.com/Daisy2100/nchu-11402-DeepRL-hw-02) | 互動式網格地圖應用，視覺化展示 Iterative Policy Evaluation 與 Value Iteration 演算法求解最佳策略的過程。 |
-| 計算機網路 | [nchu-11402-ComputerNetwork](https://github.com/Daisy2100/nchu-11402-ComputerNetwork) | *(儲存庫尚未有內容)* |
+| 深度強化學習 hw-03 | [nchu-11402-DeepRL-hw-03](https://github.com/Daisy2100/nchu-11402-DeepRL-hw-03) | 多臂賭博機 (MAB) 策略模擬，比較 $\epsilon$-Greedy、UCB、Thompson Sampling 等六種經典的「探索與利用」策略。 |
+| 深度強化學習 hw-04 | [nchu-11402-DeepRL-hw-04](https://github.com/Daisy2100/nchu-11402-DeepRL-hw-04) | Q-learning vs SARSA 強化學習演算法實作與比較，應用於 Cliff Walking (懸崖尋路) 環境。 |
+| 深度強化學習 hw-05 | [nchu-11402-DeepRL-hw-05](https://github.com/Daisy2100/nchu-11402-DeepRL-hw-05) | DQN 及其變體實作，採用 tf.keras 於 Gridworld 三難度模式中逐步加入 Replay Buffer、Target Network 與 Double/Dueling DQN。 |
+| 深度強化學習 hw-06 | [nchu-11402-DeepRL-hw-06](https://github.com/Daisy2100/nchu-11402-DeepRL-hw-06) | 設計以 LLM 為核心的智慧學術研究助理 AI Harness 系統，採用 ReAct 模式與 function calling 完成論文搜尋與摘要產出。 |
 
 ---
 
